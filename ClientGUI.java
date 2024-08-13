@@ -1,3 +1,7 @@
+/* Author: Alexander May
+   Last Edited: 8/12/2024
+*/ 
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
