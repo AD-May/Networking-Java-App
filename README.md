@@ -1,7 +1,7 @@
 # Networking-Java-App
 A chat app built using Java Swing and sockets. Allows for 2 TCPClients to interact via a TCPServer and send messages in real time. Message history is provided in a text log format.
 
-![]([https://github.com/AD-May/Networking-Java-App/blob/main/giphy.gif](https://github.com/AD-May/Networking-Java-App/blob/main/Java-Chat-App.gif))
+![]([https://github.com/AD-May/Networking-Java-App/blob/main/giphy.gif)
 
 # To run application:
 
