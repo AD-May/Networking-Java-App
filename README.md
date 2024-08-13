@@ -1,5 +1,7 @@
 # Networking-Java-App
-A chat app built using Java Swing and sockets. Allows for 2 TCPClients to interact via a TCPServer and send messages in real time. Message history and timestamps are provided in a text log format.
+A chat app built using Java Swing and sockets. Allows for 2 TCPClients to interact via a TCPServer and send messages in real time. Message history is provided in a text log format.
+
+
 
 # To run application:
 
